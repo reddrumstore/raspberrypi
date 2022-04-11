@@ -1,0 +1,9 @@
+#  tack these on to ~/.bashrc
+
+alias cm="chmod +x"
+alias ll='ls -lh'
+alias llt='ls -lhtr'
+alias pg="ping -c 2 8.8.8.8"
+alias sb='source ~/.bashrc'
+
+alias p3='/usr/bin/python3'
