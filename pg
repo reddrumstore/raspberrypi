@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#  ver. 1.0
+#  ping google dns server for connectivity check
+
+ping -c 2 8.8.8.8
