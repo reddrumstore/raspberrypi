@@ -1,0 +1,6 @@
+#  ver. .2
+#  commands to examine boot process for speed
+
+systemd-analyze time
+systemd-analyze blame
+systemd-analyze critical-chain
